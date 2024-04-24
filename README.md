@@ -1,2 +1,2 @@
 # HuntOfWumpus
-Hunt of Wumpus console game
+Hunt of Wumpus console game in c++
